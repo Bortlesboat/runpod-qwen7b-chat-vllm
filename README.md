@@ -1,6 +1,21 @@
 # Qwen 2.5 7B Cheap Chat Worker For RunPod Hub
 
+[![RunPod](https://api.runpod.io/badge/Bortlesboat/runpod-qwen7b-chat-vllm)](https://console.runpod.io/hub/Bortlesboat/runpod-qwen7b-chat-vllm)
+
 This repo packages an OpenAI-compatible `vLLM` worker around `Qwen/Qwen2.5-7B-Instruct` for lower-cost 24 GB GPU deployments on RunPod Serverless.
+
+Deploy on RunPod Hub:
+
+- https://console.runpod.io/hub/Bortlesboat/runpod-qwen7b-chat-vllm
+
+Good search terms for this listing:
+
+- `qwen 7b`
+- `qwen2.5-7b-instruct`
+- `cheap chat`
+- `vllm`
+- `openai-compatible`
+- `rtx 4090`
 
 It is meant to be the broad-market listing in this small portfolio:
 
